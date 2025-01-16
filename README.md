@@ -1,1 +1,5 @@
-# Encryptix: Blaze Through Encryption with Lightning-Fast File Security
+# Encryptix: Blaze Through Encryption with Lightning-Fast File Security.
+
+
+- [ ] Adding Multiprocessing
+- [ ] Adding Multithreading
